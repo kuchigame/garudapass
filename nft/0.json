@@ -1,0 +1,17 @@
+{
+    "name": "Garuda Pass #1",
+    "image": "https://github.com/kuchigame/garudapass/blob/main/image/Garuda%20Pass%20%231.jpg",
+    "attributes": [
+      {
+        "trait_type": "RARITY",
+        "value": "Legendary"
+      }
+    ],
+    "buttons": [
+      {
+        "label": "Join Garuda TON",
+        "uri": "https://t.me/GarudaTON"
+      }
+    ],
+    "description": "A Garuda Pass on blockchain TON nor whitelist for our ecosystem. Every holder will get exclusive our NFT Free mint."
+}

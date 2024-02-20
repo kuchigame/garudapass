@@ -1,0 +1,13 @@
+{
+    name: "Garuda Pass",
+    description: "A Garuda Pass on blockchain TON nor whitelist for our ecosystem. Every holder will get exclusive our NFT Free mint with rarity Legendary",
+    image: https://github.com/kuchigame/garudapass/blob/main/image/Garuda%20Pass%20%231.jpg,
+    external_url: https://getgems.io/collection/EQC1tWkrNrEu68cdDy9Q8WwuZeORgFtKoxj4L-Mfkj8AUjLj,
+    external_link: null,
+    social_links: {
+        0: https://t.me/GarudaTON,
+        1: https://t.me/GarudaInt
+    },
+    marketplace: getgems.io,
+    cover_image: https://github.com/kuchigame/garudapass/blob/main/image/Garuda%20Pass%20%231.jpg
+}
