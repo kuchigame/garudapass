@@ -1,6 +1,6 @@
 {
     "name": "Garuda Pass #1",
-    "image": "https://github.com/kuchigame/garudapass/blob/main/image/Garuda%20Pass%20%231.jpg?raw=true",
+    "image": "https://raw.githubusercontent.com/kuchigame/garudapass/blob/main/image/Garuda%20Pass%20%231.jpg",
     "attributes": [
       {
         "trait_type": "RARITY",
