@@ -1,17 +1,17 @@
 {
-    "name": "Garuda #1",
-    "image": "https://fitra.moe/image/Garuda%20Pass%20%231.jpg",
-    "attributes": [
-      {
-        "trait_type": "RARITY",
-        "value": "Legendary"
-      }
-    ],
-    "buttons": [
-      {
-        "label": "Join Garuda TON",
-        "uri": "https://t.me/GarudaTON"
-      }
-    ],
-    "description": "A Garuda on blockchain TON ecosystem. Every holder will get benefit later and TBA."
+  "name": "Garuda #1",
+  "image": "https://fitra.moe/image/Garuda%20Pass%20%231.jpg",
+  "attributes": [
+    {
+      "trait_type": "RARITY",
+      "value": "Legendary"
+    }
+  ],
+  "buttons": [
+    {
+      "label": "Join Garuda TON",
+      "uri": "https://t.me/GarudaTON"
+    }
+  ],
+  "description": "A titan of Garuda. Every holder will get exclusive our project like as airdrop, free mint, giveaway and much more.."
 }
